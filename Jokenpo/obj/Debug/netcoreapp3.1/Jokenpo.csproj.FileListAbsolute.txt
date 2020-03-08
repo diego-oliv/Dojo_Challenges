@@ -1,0 +1,11 @@
+C:\Users\rapma\OneDrive\Área de Trabalho\C#_Documents\Dojo_\Jokenpo\bin\Debug\netcoreapp3.1\Jokenpo.exe
+C:\Users\rapma\OneDrive\Área de Trabalho\C#_Documents\Dojo_\Jokenpo\bin\Debug\netcoreapp3.1\Jokenpo.deps.json
+C:\Users\rapma\OneDrive\Área de Trabalho\C#_Documents\Dojo_\Jokenpo\bin\Debug\netcoreapp3.1\Jokenpo.runtimeconfig.json
+C:\Users\rapma\OneDrive\Área de Trabalho\C#_Documents\Dojo_\Jokenpo\bin\Debug\netcoreapp3.1\Jokenpo.runtimeconfig.dev.json
+C:\Users\rapma\OneDrive\Área de Trabalho\C#_Documents\Dojo_\Jokenpo\bin\Debug\netcoreapp3.1\Jokenpo.dll
+C:\Users\rapma\OneDrive\Área de Trabalho\C#_Documents\Dojo_\Jokenpo\bin\Debug\netcoreapp3.1\Jokenpo.pdb
+C:\Users\rapma\OneDrive\Área de Trabalho\C#_Documents\Dojo_\Jokenpo\obj\Debug\netcoreapp3.1\Jokenpo.csprojAssemblyReference.cache
+C:\Users\rapma\OneDrive\Área de Trabalho\C#_Documents\Dojo_\Jokenpo\obj\Debug\netcoreapp3.1\Jokenpo.AssemblyInfoInputs.cache
+C:\Users\rapma\OneDrive\Área de Trabalho\C#_Documents\Dojo_\Jokenpo\obj\Debug\netcoreapp3.1\Jokenpo.AssemblyInfo.cs
+C:\Users\rapma\OneDrive\Área de Trabalho\C#_Documents\Dojo_\Jokenpo\obj\Debug\netcoreapp3.1\Jokenpo.dll
+C:\Users\rapma\OneDrive\Área de Trabalho\C#_Documents\Dojo_\Jokenpo\obj\Debug\netcoreapp3.1\Jokenpo.pdb
